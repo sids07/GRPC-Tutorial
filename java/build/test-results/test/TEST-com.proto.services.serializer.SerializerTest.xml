@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.proto.services.serializer.SerializerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-21T05:34:54" hostname="dell-Vostro-3405" time="0.067">
+  <properties/>
+  <testcase name="writeBinaryFile" classname="com.proto.services.serializer.SerializerTest" time="0.067"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
